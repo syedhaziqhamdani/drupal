@@ -44,5 +44,6 @@
 /robots.txt
 /update.php
 /web.config
+node_modules/
 
 # End of https://www.gitignore.io/api/drupal8
